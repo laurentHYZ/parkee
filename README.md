@@ -1,8 +1,6 @@
 # parkee
-helloworld
-byebye
-from github
-line 5 from local
 
-this got saved/commited without us pulling from the ghparkee repo first. that's a problem.
-this change will get committed and add a snapshot to the history.
+I want us to play a game. the game is called poem pingpong.
+I will start with a verse and you will answer, and we will keep playing.
+
+Once upon a time 
